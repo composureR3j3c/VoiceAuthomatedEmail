@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VoiceAuthomatedEmail.menu">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ARBAAAAAgCAQgARAIACMAAACAIACAAQAAAAAAAQAAAA=</HashCode>
+      <FileName>menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VoiceAuthomatedEmail.received">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQChAAAAMCAAAAAIAqyACAyDACAACAQQIASAAEwYAog=</HashCode>
+      <FileName>received.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VoiceAuthomatedEmail.Recipient">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAgAiQoQEGAEQhIAJICAAAgSAQAIoAAwIEAAQQQQAKE=</HashCode>
+      <FileName>Compose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VoiceAuthomatedEmail.Register">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAAAAAEAACEAABIggACAAAADCACAAAEQAIAgQAQCAQA=</HashCode>
+      <FileName>Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VoiceAuthomatedEmail.login">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgAAAACAACAAAAIAAACACIACAACBIAAQAARAAQQSAQA=</HashCode>
+      <FileName>login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
